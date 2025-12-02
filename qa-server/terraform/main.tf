@@ -10,11 +10,11 @@ resource "aws_budgets_budget" "total_cost" {
 
 
 
-resource "aws_s3_bucket" "this" {
-  bucket = "my-example-bucket-1230"
+resource "aws_s3_bucket" "thiswerww" {
+  bucket = "oppiuju"
 
   tags = {
-    Name        = "my-example-bucket-qa98"
+    Name        = "iibbxxx"
     Environment = "dev"
   }
 }
